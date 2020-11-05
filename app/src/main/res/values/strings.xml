@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project2 Rizki</string>
+    <string-array name="gender">
+        <item>M</item>
+        <item>F</item>
+    </string-array>
+</resources>
